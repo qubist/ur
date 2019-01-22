@@ -1,10 +1,8 @@
+import adafruit_trellism4
 import random
 import time
-import adafruit_trellism4
 
 trellis = adafruit_trellism4.TrellisM4Express()
-
-trellis.pixels.brightness = .1 # FOR TESTING ON THE TRAIN
 
 DEBUGGING = False
 
@@ -554,6 +552,12 @@ class Board():
         self.paintPath()
         self.paintTokens()
         self.paintDice()
+
+
+
+
+
+
 
 # Test board
 board = Board()
