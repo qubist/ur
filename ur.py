@@ -178,7 +178,7 @@ class Path:
     def canMoveToken(self, tileNumber, n, player=None):
         # make sure player is specified if needed
         if not self.getTile(tileNumber).isShared():
-            # assert player is not None
+            assert player is not None
 
         ## GENERAL REQUIREMENTS:
 
@@ -264,7 +264,7 @@ class Path:
     def moveToken(self, tileNumber, n, player=None):
         # make sure player is specified if needed
         if not self.getTile(tileNumber).isShared():
-            # assert player is not None
+            assert player is not None
 
         if self.canMoveToken(tileNumber, n, player):
             tile = self.getTile(tileNumber)
