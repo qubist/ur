@@ -18,7 +18,7 @@ To install on a NeoTrellis M4, first install [CircuitPython](https://www.adafrui
 
 ## Usage
 
-Refer to this [how to play video](https://www.youtube.com/watch?v=WZskjLq040I).
+Refer to this [how-to-play video](https://www.youtube.com/watch?v=WZskjLq040I).
 
 ## Contributing
 
