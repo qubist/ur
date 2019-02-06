@@ -1,6 +1,6 @@
 # The Royal Game of Ur _(ur)_
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
 [![GitHub license](https://img.shields.io/github/license/qubist/ur.svg)](https://github.com/qubist/ur/blob/master/LICENSE.txt)
 [![GitHub stars](https://img.shields.io/github/stars/qubist/ur.svg)](https://github.com/qubist/ur/stargazers)
 
